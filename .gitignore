@@ -18,3 +18,5 @@ pip-delete-this-directory.txt
 .env
 *domino*
 .DS_Store
+notebooks/log
+notebooks/*png
