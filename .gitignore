@@ -20,3 +20,4 @@ pip-delete-this-directory.txt
 .DS_Store
 notebooks/log
 notebooks/*png
+notebooks/*csv
