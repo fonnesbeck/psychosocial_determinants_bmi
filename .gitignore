@@ -21,3 +21,4 @@ pip-delete-this-directory.txt
 notebooks/log
 notebooks/*png
 notebooks/*csv
+notebooks/archive/

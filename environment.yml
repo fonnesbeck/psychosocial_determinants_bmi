@@ -7,10 +7,6 @@ dependencies:
     - ipyparallel
     - notebook
     - seaborn
-    - watermark
     - dask
     - theano
-    - pip:
-        - castra
-        - graphviz
-        - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
+    - pymc3
