@@ -22,3 +22,5 @@ notebooks/log
 notebooks/*png
 notebooks/*csv
 notebooks/archive/
+
+data/
